@@ -27,7 +27,7 @@ const config: MenuEntry[] = [
     href: 'https://virago-frontend.netlify.app/farms'
   },
   {
-    label: 'Nests',
+    label: 'Pools',
     icon: 'PoolIcon',
     href: 'https://virago-frontend.netlify.app/nests'
   },
@@ -75,11 +75,6 @@ const config: MenuEntry[] = [
         href: "https://virago.medium.com/",
       },
     ],
-  },
-  {
-    label: 'Partnerships/IFO',
-    icon: 'GooseIcon',
-    href: 'https://docs.google.com/',
   },
   {
     label: 'Audit',
