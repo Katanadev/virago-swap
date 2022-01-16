@@ -1982,9 +1982,9 @@
     tiny-warning "^1.0.3"
     toformat "^2.0.0"
 
-"@pancakeswap-libs/uikit@katanadev/virago-uikit":
+"@pancakeswap-libs/uikit@Katanadev/virago-uikit":
   version "0.10.2"
-  resolved "https://codeload.github.com/katanadev/virago-uikit/tar.gz/3decb9c76a2499b4af48a1df5025fbeb738497f5"
+  resolved "https://codeload.github.com/Katanadev/virago-uikit/tar.gz/0e57693027d0239c8dc73b2991948b28bbfbc489"
   dependencies:
     "@types/lodash" "^4.14.162"
     "@types/styled-system" "^5.1.10"
